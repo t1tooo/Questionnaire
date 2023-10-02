@@ -1,2 +1,2 @@
 # questionnaire
- A school project
+A school project in javascript
