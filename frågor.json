@@ -1,0 +1,325 @@
+[
+  {
+    "question": "Fråga 1: Är du en stark person?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 2,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 5,
+        "kanin": 4,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 2: Har du stort utrymme hos dig?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 3: Har du tidigare erfarenhet med husdjur?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 4: Bor du själv?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 4,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 5: Vill du att ditt husdjur äter mycket?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 3,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 6: Är du energisk eller avslappnad?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 7: Är du allergisk mot pälsdjur?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 0,
+        "katt": 0,
+        "kanin": 0,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 5,
+        "katt": 5,
+        "kanin": 5,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 8: Har du mycket tid att ägna till ditt husdjur dagligen? Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 0,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 9: Har du barn?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 4,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 10: Har du tålamod?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 11: Föredrar du små husdjur över stora husdjur, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 3,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 12: Reser du ofta?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 0,
+        "katt": 2,
+        "kanin": 2,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 5,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 13: Är du känslig mot oljud och störningar?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 0,
+        "katt": 2,
+        "kanin": 2,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 5,
+        "katt": 3,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 14: Är du beredd att investera mycket pengar på ditt husdjur?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 0,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 15: Är du intresserad av att träna samt uppfostra ditt djur?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 16: Har du andra husdjur hemma?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 3,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 4,
+        "katt": 4,
+        "kanin": 4,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 17: Behöver du sällskap?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 18: Föredrar du ett självständigt djur över en som kräver uppmärksamhet, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 2,
+        "katt": 3,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 5,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": "Fråga 19: Har du någonsin förlorat ett husdjur?, Svara med Ja eller Nej!: ",
+    "answers": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 5
+      },
+      "nej": {
+        "hund": 3,
+        "katt": 3,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  }
+]
