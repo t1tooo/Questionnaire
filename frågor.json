@@ -29,7 +29,7 @@
         "hund": 2,
         "katt": 5,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 3
       }
     }
   },
@@ -74,7 +74,7 @@
         "hund": 5,
         "katt": 2,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 2
       },
       "nej": {
         "hund": 2,
@@ -91,7 +91,7 @@
         "hund": 5,
         "katt": 2,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 3
       },
       "nej": {
         "hund": 2,
@@ -129,7 +129,7 @@
       },
       "nej": {
         "hund": 0,
-        "katt": 2,
+        "katt": 1,
         "kanin": 3,
         "fisk": 5
       }
@@ -148,7 +148,7 @@
         "hund": 4,
         "katt": 5,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 2
       }
     }
   },
@@ -165,7 +165,7 @@
         "hund": 2,
         "katt": 5,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 2
       }
     }
   },
@@ -179,7 +179,7 @@
         "fisk": 5
       },
       "nej": {
-        "hund": 2,
+        "hund": 0,
         "katt": 3,
         "kanin": 3,
         "fisk": 5
@@ -225,9 +225,9 @@
     "answers": {
       "ja": {
         "hund": 5,
-        "katt": 2,
+        "katt": 4,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 2
       },
       "nej": {
         "hund": 0,
@@ -244,7 +244,7 @@
         "hund": 5,
         "katt": 2,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 0
       },
       "nej": {
         "hund": 2,
@@ -284,7 +284,7 @@
         "hund": 2,
         "katt": 2,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 2
       }
     }
   },
@@ -301,7 +301,7 @@
         "hund": 5,
         "katt": 5,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 2
       }
     }
   },
@@ -312,7 +312,7 @@
         "hund": 5,
         "katt": 2,
         "kanin": 3,
-        "fisk": 5
+        "fisk": 0
       },
       "nej": {
         "hund": 3,

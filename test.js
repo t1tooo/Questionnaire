@@ -27,7 +27,7 @@ let hdScore = {
   fisk: 0
 };
 
-for (let i = 0; i < 3; i++) {
+for (let i = 0; i < frågor.length; i++) {
   let wrongAnswer = false;
   while (!wrongAnswer) {
     let { answers, question } = frågor[i];
@@ -76,6 +76,20 @@ person = {
 console.log(person);
 
 resArray.push(person);
+
+let slutRes = Math.max(hdResHund, hdResKatt, hdResKanin, hdResFisk)
+
+if (slutRes == hdResHund) {
+  console.log("Du borde skaffa en Scooby - D0oO0");
+} else if (slutRes == hdResKatt) {
+  console.log("Du har tittat för mycket Garfield!");
+} else if (slutRes == hdResKanin) {
+  console.log("Get ur bunny man!");
+} else if (slutRes == hdResFisk) {
+  console.log("Du borde hitta Nemo0O!");
+} else
+  console.log("Vill du en alien?!!");
+
 
 fs.writeFile('./resultat.json', JSON.stringify(resArray, null, 2), (err) => {
   if (err) throw err;
